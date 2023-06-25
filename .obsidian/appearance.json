@@ -1,3 +1,11 @@
 {
-  "accentColor": ""
+  "accentColor": "#16fafe",
+  "theme": "obsidian",
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSizeAction": true,
+  "showViewHeader": true
 }

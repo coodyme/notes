@@ -1,18 +1,20 @@
 {
   "main": {
-    "id": "189eb34d8b7c76e4",
+    "id": "e4fb6d5e73ee4bb1",
     "type": "split",
     "children": [
       {
-        "id": "1c75812b642265c5",
+        "id": "5324ff3f95f3bef1",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6fab46e8fbc36d",
+            "id": "53303d05d51882be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "attachments/nest_jwt_0.png"
+              }
             }
           }
         ]
@@ -21,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "858507d61b5c5579",
+    "id": "6c9536fe1668289e",
     "type": "split",
     "children": [
       {
-        "id": "5fbe17cf46ec6c59",
+        "id": "9601f418f7277d00",
         "type": "tabs",
         "children": [
           {
-            "id": "4e6a7223aa9a3792",
+            "id": "f207faee92255fd5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +41,12 @@
             }
           },
           {
-            "id": "25f32391e0d6cb98",
+            "id": "9d2f23ac040b8be9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +56,15 @@
             }
           },
           {
-            "id": "d9bdb757651cf3b7",
+            "id": "7a3a977383d59625",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b0f22556505415f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +75,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
-    "id": "6265e61fec849476",
+    "id": "9941d871b9c3b5ca",
     "type": "split",
     "children": [
       {
-        "id": "3456e77486b60477",
+        "id": "bdb2fdce1e8af333",
         "type": "tabs",
         "children": [
           {
-            "id": "90c6f54a3184fb5a",
+            "id": "6765c868efb7884d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "attachments/nest_jwt_0.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +103,19 @@
             }
           },
           {
-            "id": "60ee180b86bfad2a",
+            "id": "c316406277a363ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "attachments/nest_jwt_0.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "552a364ad9bac066",
+            "id": "a23994d41285fc51",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,10 +126,20 @@
             }
           },
           {
-            "id": "c827ea3f361f0e72",
+            "id": "8701982751d12b1f",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "attachments/nest_jwt_0.png"
+              }
+            }
+          },
+          {
+            "id": "7cb253f85370cf7c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -125,19 +147,73 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 355.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f6fab46e8fbc36d",
-  "lastOpenFiles": []
+  "active": "f207faee92255fd5",
+  "lastOpenFiles": [
+    "other/Untitled",
+    "attachments/canvas/Untitled.canvas",
+    "attachments/exacalidraw/Drawing 2023-06-24 21.43.20.excalidraw.md",
+    "attachments/nest_jwt_0.png",
+    "attachments/exacalidraw",
+    "attachments/canvas",
+    "attachments/excalidraw",
+    "README.md",
+    "attachments",
+    "TEMPLATE.md",
+    "attachments",
+    "devops/Continuos Integration.md",
+    "databases/Untitled.png",
+    "databases/SQL Básico 0054c1ac545941c1b7b7a6212a01dc0c.md",
+    "databases/SQL Avançado ceac15b91e1f42bea0fe47cb94c1dc6a.md",
+    "databases/PostgreSQL.md",
+    "databases/PostgreSQL f8169443c31c455d93d9835255413c2c.md",
+    "databases/Introdução ao SQL b96a420add72460f974d0ee2b4fd954b.md",
+    "databases/How To Install and Use PostgreSQL on Ubuntu 20 04 9601fd852851406d99effb53ed0360e0.md",
+    "databases/Entendendo SQL.md",
+    "databases",
+    "patterns/Factory Pattern.md",
+    "patterns",
+    "devops/Continuos Delivery.md",
+    "devops/aws/extend-file-system.md",
+    "devops/aws/aws-session-manager.md",
+    "aws-ec2.md",
+    "dba/PostgreSQL f8169443c31c455d93d9835255413c2c.md",
+    "dba/PostgreSQL.md",
+    "dba/Introdução ao SQL b96a420add72460f974d0ee2b4fd954b.md",
+    "dba/How To Install and Use PostgreSQL on Ubuntu 20 04 9601fd852851406d99effb53ed0360e0.md",
+    "dba/Entendendo SQL.md",
+    "architect/Factory Pattern.md",
+    "other/setup.md",
+    "devops/aws/rsync.md",
+    "graphql.md",
+    "excalidraw",
+    "Pasted image 20230616160314.png",
+    "excalidraw/Drawing 2023-06-16 13.47.00.excalidraw.png",
+    "Pasted image 20230616134715.png",
+    "zendesk/images/zendesk_oauth_ss_0.png",
+    "frontend/react/hooks",
+    "frontend/react-reference",
+    "excalidraw/Drawing 2023-06-12 13.17.09.excalidraw.png",
+    "Pasted image 20230612131814.png",
+    "Pasted image 20230612131829.png",
+    "Pasted image 20230612131809.png",
+    "Untitled.canvas",
+    "apps/Untitled.canvas"
+  ]
 }

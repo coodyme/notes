@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBuilding",
+      "LiFolder",
+      "FabVuejs",
+      "FasPrescriptionBottle",
+      "LiType"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "attachments": "LiArchive",
+  "aws": "FabAws",
+  "cypress": "FasPrescriptionBottle",
+  "docker": "FabDocker",
+  "git": "FabGitAlt",
+  "graphql": "FasTransgender",
+  "mongo": "LiDatabase",
+  "postgres": "LiDatabase",
+  "nodejs": "FabNodeJs",
+  "nestjs": "LiFolder",
+  "http": "LiFolder",
+  "javascript": "FabJs",
+  "jest": "LiFolder",
+  "patterns": "LiFolder",
+  "python": "FabPython",
+  "react": "FabReact",
+  "tailwind": "LiFolder",
+  "typescript": "LiType",
+  "vitest": "FasPrescriptionBottle",
+  "vue": "FabVuejs",
+  "zendesk": "LiFolder",
+  "other": "LiBuilding"
+}
