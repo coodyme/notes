@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5324ff3f95f3bef1",
+        "id": "672de901fc844000",
         "type": "tabs",
         "children": [
           {
-            "id": "53303d05d51882be",
+            "id": "f11423658bed5090",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/nest_jwt_0.png"
+                "file": "react/0-quick-start.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "api key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 208.5
   },
   "right": {
     "id": "9941d871b9c3b5ca",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/nest_jwt_0.png",
+                "file": "react/0-quick-start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/nest_jwt_0.png",
+                "file": "react/0-quick-start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/nest_jwt_0.png"
+                "file": "react/0-quick-start.md"
               }
             }
           },
@@ -147,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,18 +165,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f207faee92255fd5",
+  "active": "f11423658bed5090",
   "lastOpenFiles": [
+    "react/topics/keys-in-react.md",
+    "react/0-quick-start.md",
+    "react/topics/controlled-vs-uncontrolled-components.md",
+    "TEMPLATE.md",
+    "README.md",
+    "react/topics",
+    "react/apis/1-forward-ref.md",
+    "react/apis/0-create-context.md",
+    "Untitled.md",
+    "terraform",
+    "express/api-key-auth.md",
+    "express/Untitled.md",
+    "express/jwt-auth.md",
+    "express",
+    "nodejs/express",
+    "attachments/nest_jwt_0.png",
     "other/Untitled",
     "attachments/canvas/Untitled.canvas",
     "attachments/exacalidraw/Drawing 2023-06-24 21.43.20.excalidraw.md",
-    "attachments/nest_jwt_0.png",
     "attachments/exacalidraw",
     "attachments/canvas",
     "attachments/excalidraw",
-    "README.md",
     "attachments",
-    "TEMPLATE.md",
     "attachments",
     "devops/Continuos Integration.md",
     "databases/Untitled.png",
@@ -186,29 +200,16 @@
     "databases/Introdução ao SQL b96a420add72460f974d0ee2b4fd954b.md",
     "databases/How To Install and Use PostgreSQL on Ubuntu 20 04 9601fd852851406d99effb53ed0360e0.md",
     "databases/Entendendo SQL.md",
-    "databases",
     "patterns/Factory Pattern.md",
-    "patterns",
     "devops/Continuos Delivery.md",
     "devops/aws/extend-file-system.md",
     "devops/aws/aws-session-manager.md",
     "aws-ec2.md",
     "dba/PostgreSQL f8169443c31c455d93d9835255413c2c.md",
-    "dba/PostgreSQL.md",
-    "dba/Introdução ao SQL b96a420add72460f974d0ee2b4fd954b.md",
-    "dba/How To Install and Use PostgreSQL on Ubuntu 20 04 9601fd852851406d99effb53ed0360e0.md",
-    "dba/Entendendo SQL.md",
-    "architect/Factory Pattern.md",
-    "other/setup.md",
-    "devops/aws/rsync.md",
-    "graphql.md",
-    "excalidraw",
     "Pasted image 20230616160314.png",
     "excalidraw/Drawing 2023-06-16 13.47.00.excalidraw.png",
     "Pasted image 20230616134715.png",
     "zendesk/images/zendesk_oauth_ss_0.png",
-    "frontend/react/hooks",
-    "frontend/react-reference",
     "excalidraw/Drawing 2023-06-12 13.17.09.excalidraw.png",
     "Pasted image 20230612131814.png",
     "Pasted image 20230612131829.png",

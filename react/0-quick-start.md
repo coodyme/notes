@@ -153,3 +153,31 @@ Overall, conditional rendering is a powerful technique that can help you create 
 
 ## Rendering lists
 
+To render a list in React using `loops` can be done like:
+
+```jsx
+const products = [  
+	{ title: 'Cabbage', id: 1 },
+	{ title: 'Garlic', id: 2 },
+	{ title: 'Apple', id: 3 },  
+];
+	
+function App() {
+
+	return (
+		<ul>
+		{products.map(product => (
+			<li key={product.id}> 
+				{product.title} 
+			</li>
+		))}
+		</ul>
+	)
+}
+
+export default App;
+```
+
+For each item in a list, you should pass a `string` or `number` that uniquely identifies that item among its siblings. Usually, a key should be coming from you data, like a database identifier.
+
+For more information about why we need to use keys take a look at [[keys-in-react]]
