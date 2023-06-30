@@ -22,7 +22,6 @@
     },
     "iconInTabsEnabled": false
   },
-  "attachments": "LiArchive",
   "aws": "FabAws",
   "cypress": "FasPrescriptionBottle",
   "docker": "FabDocker",
@@ -32,7 +31,6 @@
   "postgres": "LiDatabase",
   "nodejs": "FabNodeJs",
   "nestjs": "LiFolder",
-  "http": "LiFolder",
   "javascript": "FabJs",
   "jest": "LiFolder",
   "patterns": "LiFolder",

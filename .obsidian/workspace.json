@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/0-quick-start.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/0-quick-start.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/0-quick-start.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/0-quick-start.md"
+                "file": "README.md"
               }
             }
           },
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +167,17 @@
   },
   "active": "f11423658bed5090",
   "lastOpenFiles": [
-    "react/topics/keys-in-react.md",
     "react/0-quick-start.md",
+    "react/topics/keys-in-react.md",
+    "nodejs/http/difference-between-401-vs-403.md",
+    "http/HTTP Request.md",
+    "-/attachments/nest_jwt_0.png",
+    "nodejs/http",
+    "-/attachments",
+    "-/templates",
+    "-/Untitled",
     "react/topics/controlled-vs-uncontrolled-components.md",
-    "TEMPLATE.md",
+    "-/templates/TEMPLATE.md",
     "README.md",
     "react/topics",
     "react/apis/1-forward-ref.md",
@@ -182,15 +189,10 @@
     "express/jwt-auth.md",
     "express",
     "nodejs/express",
-    "attachments/nest_jwt_0.png",
     "other/Untitled",
     "attachments/canvas/Untitled.canvas",
     "attachments/exacalidraw/Drawing 2023-06-24 21.43.20.excalidraw.md",
     "attachments/exacalidraw",
-    "attachments/canvas",
-    "attachments/excalidraw",
-    "attachments",
-    "attachments",
     "devops/Continuos Integration.md",
     "databases/Untitled.png",
     "databases/SQL Básico 0054c1ac545941c1b7b7a6212a01dc0c.md",
@@ -204,8 +206,6 @@
     "devops/Continuos Delivery.md",
     "devops/aws/extend-file-system.md",
     "devops/aws/aws-session-manager.md",
-    "aws-ec2.md",
-    "dba/PostgreSQL f8169443c31c455d93d9835255413c2c.md",
     "Pasted image 20230616160314.png",
     "excalidraw/Drawing 2023-06-16 13.47.00.excalidraw.png",
     "Pasted image 20230616134715.png",

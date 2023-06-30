@@ -13,6 +13,7 @@
     "pt-BR"
   ],
   "promptDelete": false,
-  "attachmentFolderPath": "attachments",
-  "tabSize": 2
+  "attachmentFolderPath": "-/attachments",
+  "tabSize": 2,
+  "newFileLocation": "current"
 }
