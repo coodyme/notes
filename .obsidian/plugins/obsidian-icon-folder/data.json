@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBuilding",
-      "LiFolder",
-      "FabVuejs",
-      "FasPrescriptionBottle",
-      "LiType"
+      "SiNestjs",
+      "SiMongodb",
+      "SiJest",
+      "TiBrandCypress",
+      "SiVitest"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,23 +23,24 @@
     "iconInTabsEnabled": false
   },
   "aws": "FabAws",
-  "cypress": "FasPrescriptionBottle",
+  "cypress": "TiBrandCypress",
   "docker": "FabDocker",
   "git": "FabGitAlt",
   "graphql": "FasTransgender",
-  "mongo": "LiDatabase",
+  "mongo": "SiMongodb",
   "postgres": "LiDatabase",
   "nodejs": "FabNodeJs",
-  "nestjs": "LiFolder",
+  "nestjs": "SiNestjs",
   "javascript": "FabJs",
-  "jest": "LiFolder",
+  "jest": "SiJest",
   "patterns": "LiFolder",
   "python": "FabPython",
   "react": "FabReact",
   "tailwind": "LiFolder",
   "typescript": "LiType",
-  "vitest": "FasPrescriptionBottle",
+  "vitest": "SiVitest",
   "vue": "FabVuejs",
   "zendesk": "LiFolder",
-  "other": "LiBuilding"
+  "other": "LiBuilding",
+  "express": "SiExpress"
 }

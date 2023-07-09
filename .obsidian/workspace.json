@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "672de901fc844000",
+        "id": "ad9dd32f93c4773f",
         "type": "tabs",
         "children": [
           {
-            "id": "f11423658bed5090",
+            "id": "f7cb26cfee1f68bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "react/controlled-vs-uncontrolled-components.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 279.5
   },
   "right": {
     "id": "9941d871b9c3b5ca",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "react/controlled-vs-uncontrolled-components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "react/controlled-vs-uncontrolled-components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "react/controlled-vs-uncontrolled-components.md"
               }
             }
           },
@@ -165,56 +165,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f11423658bed5090",
+  "active": "f7cb26cfee1f68bc",
   "lastOpenFiles": [
+    "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
+    "react/controlled-vs-uncontrolled-components.md",
+    "react/keys-in-react.md",
+    "react/3-hooks/0-use-callback.md",
+    "react/2-rendering",
+    "react/1-components",
+    "react/0-cli-tools",
+    "react/docs",
+    "javascript/event-loop.md",
+    "-/attachments/event-loop-0.gif",
+    "-/attachments/Pasted image 20230707081930.png",
+    "-/attachments/excalidraw/Drawing 2023-07-06 17.37.07.excalidraw.md",
+    "-/attachments/excalidraw",
+    "-/attachments/gid1.6.gif",
+    "javascript/media-capture.md",
+    "attachments/excalidraw/Drawing 2023-07-06 17.28.43.excalidraw.md",
+    "attachments/excalidraw",
+    "attachments",
+    "Untitled.canvas",
+    "javascript/1-variables/variable-declarations.md",
+    "javascript/2-data-types",
+    "javascript/1-variables/variable-scopes.md",
+    "javascript/1-variables/hoisting.md",
+    "javascript/0-intro/0-what-is-javascript.md",
+    "javascript/1-variables",
+    "javascript/0-intro",
+    "javascript/Vite JS.md",
+    "javascript/Quando utilizar Async Await.md",
+    "javascript/Prototype.md",
+    "javascript/Promises.md",
+    "javascript/Path.md",
+    "javascript/O que é Call Stack e Memory Heap.md",
+    "javascript/ESlint and Prettier.md",
+    "javascript/Closures.md",
+    "javascript/Array.md",
+    "javascript/A diferença entre valor e referência em JavaScript.md",
     "react/0-quick-start.md",
-    "react/topics/keys-in-react.md",
+    "README.md",
     "nodejs/http/difference-between-401-vs-403.md",
     "http/HTTP Request.md",
     "-/attachments/nest_jwt_0.png",
-    "nodejs/http",
-    "-/attachments",
-    "-/templates",
-    "-/Untitled",
-    "react/topics/controlled-vs-uncontrolled-components.md",
-    "-/templates/TEMPLATE.md",
-    "README.md",
-    "react/topics",
-    "react/apis/1-forward-ref.md",
-    "react/apis/0-create-context.md",
-    "Untitled.md",
-    "terraform",
-    "express/api-key-auth.md",
-    "express/Untitled.md",
-    "express/jwt-auth.md",
-    "express",
-    "nodejs/express",
-    "other/Untitled",
     "attachments/canvas/Untitled.canvas",
-    "attachments/exacalidraw/Drawing 2023-06-24 21.43.20.excalidraw.md",
-    "attachments/exacalidraw",
-    "devops/Continuos Integration.md",
     "databases/Untitled.png",
-    "databases/SQL Básico 0054c1ac545941c1b7b7a6212a01dc0c.md",
-    "databases/SQL Avançado ceac15b91e1f42bea0fe47cb94c1dc6a.md",
-    "databases/PostgreSQL.md",
-    "databases/PostgreSQL f8169443c31c455d93d9835255413c2c.md",
-    "databases/Introdução ao SQL b96a420add72460f974d0ee2b4fd954b.md",
-    "databases/How To Install and Use PostgreSQL on Ubuntu 20 04 9601fd852851406d99effb53ed0360e0.md",
-    "databases/Entendendo SQL.md",
-    "patterns/Factory Pattern.md",
-    "devops/Continuos Delivery.md",
-    "devops/aws/extend-file-system.md",
-    "devops/aws/aws-session-manager.md",
     "Pasted image 20230616160314.png",
     "excalidraw/Drawing 2023-06-16 13.47.00.excalidraw.png",
     "Pasted image 20230616134715.png",
     "zendesk/images/zendesk_oauth_ss_0.png",
     "excalidraw/Drawing 2023-06-12 13.17.09.excalidraw.png",
-    "Pasted image 20230612131814.png",
-    "Pasted image 20230612131829.png",
-    "Pasted image 20230612131809.png",
-    "Untitled.canvas",
     "apps/Untitled.canvas"
   ]
 }

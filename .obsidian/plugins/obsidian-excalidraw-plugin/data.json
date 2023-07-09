@@ -1,6 +1,6 @@
 {
-  "folder": "attachments/excalidraw",
-  "embedUseExcalidrawFolder": false,
+  "folder": "-/attachments/excalidraw",
+  "embedUseExcalidrawFolder": true,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
