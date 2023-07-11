@@ -4,9 +4,11 @@
 
 ## What is JSX?
 
-- 
+It is a syntax extension used in React.
 
-_JSX_ stands for _JavaScript XML_ and it is an XML-like syntax extension to ECMAScript. Basically it just provides the syntactic sugar for the `React.createElement(type, props, ...children)` function, giving us expressiveness of JavaScript along with HTML like template syntax.
+- JavaScript XML
+- Allows developers to write HTML-like code within JavaScript, combining both markup and logic in a single file
+- Basically it just provides the syntatic sugar for the `React.createElement(type, props, ...children)` function
 
 In the example below, the text inside `<h1>` tag is returned as JavaScript function to the render function.
 
@@ -31,3 +33,5 @@ export default function App() {
   );
 }
 ```
+
+> Under the hood, JSX gets transpiled into regular JavaScript before being executed in the browser. This transpilation process converts the JSX syntax into function calls that create React elements

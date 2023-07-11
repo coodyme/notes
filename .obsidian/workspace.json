@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/keys-in-react.md",
+                "file": "react/class-components.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 200
   },
   "right": {
     "id": "9941d871b9c3b5ca",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/keys-in-react.md",
+                "file": "react/class-components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/keys-in-react.md",
+                "file": "react/class-components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/keys-in-react.md"
+                "file": "react/class-components.md"
               }
             }
           },
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,16 +166,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f207faee92255fd5",
+  "active": "a094f544f49ffbce",
   "lastOpenFiles": [
-    "react/class-components.md",
     "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
-    "react/0-quick-start.md",
+    "react/class-components.md",
     "react/controlled-vs-uncontrolled-components.md",
-    "react/keys-in-react.md",
-    "react/what-is-a-react-hook.md",
-    "react/what-is-jsx.md",
     "react/dom-virtual-dom-shadow-dom.md",
+    "react/what-is-a-react-hook.md",
+    "react/keys-in-react.md",
+    "react/what-is-jsx.md",
+    "react/0-quick-start.md",
     "javascript/event-loop.md",
     "react/3-hooks/13-use-transition.md",
     "react/3-hooks/4-use-effect.md",
