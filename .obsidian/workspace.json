@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9dd32f93c4773f",
+        "id": "1439981bd72a533c",
         "type": "tabs",
         "children": [
           {
-            "id": "f7cb26cfee1f68bc",
+            "id": "a094f544f49ffbce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/controlled-vs-uncontrolled-components.md",
+                "file": "react/keys-in-react.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/controlled-vs-uncontrolled-components.md",
+                "file": "react/keys-in-react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/controlled-vs-uncontrolled-components.md",
+                "file": "react/keys-in-react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/controlled-vs-uncontrolled-components.md"
+                "file": "react/keys-in-react.md"
               }
             }
           },
@@ -165,48 +165,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7cb26cfee1f68bc",
+  "active": "f207faee92255fd5",
   "lastOpenFiles": [
+    "react/class-components.md",
     "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
+    "react/0-quick-start.md",
     "react/controlled-vs-uncontrolled-components.md",
     "react/keys-in-react.md",
+    "react/what-is-a-react-hook.md",
+    "react/what-is-jsx.md",
+    "react/dom-virtual-dom-shadow-dom.md",
+    "javascript/event-loop.md",
+    "react/3-hooks/13-use-transition.md",
+    "react/3-hooks/4-use-effect.md",
+    "react/3-hooks/12-use-sync-external-store.md",
+    "react/3-hooks/11-use-state.md",
+    "react/3-hooks/10-use-ref.md",
+    "react/3-hooks/9-use-reducer.md",
+    "react/3-hooks/8-use-memo.md",
+    "react/3-hooks/7-use-layout-effect.md",
+    "react/3-hooks/6-use-imperative-handle.md",
+    "react/3-hooks/5-use-id.md",
+    "react/3-hooks/3-use-deferred-value.md",
+    "react/3-hooks/2-use-debug-value.md",
+    "react/3-hooks/1-use-context.md",
     "react/3-hooks/0-use-callback.md",
+    "Untitled.canvas",
+    "javascript/media-capture.md",
     "react/2-rendering",
     "react/1-components",
     "react/0-cli-tools",
     "react/docs",
-    "javascript/event-loop.md",
     "-/attachments/event-loop-0.gif",
     "-/attachments/Pasted image 20230707081930.png",
     "-/attachments/excalidraw/Drawing 2023-07-06 17.37.07.excalidraw.md",
     "-/attachments/excalidraw",
     "-/attachments/gid1.6.gif",
-    "javascript/media-capture.md",
     "attachments/excalidraw/Drawing 2023-07-06 17.28.43.excalidraw.md",
     "attachments/excalidraw",
     "attachments",
-    "Untitled.canvas",
-    "javascript/1-variables/variable-declarations.md",
     "javascript/2-data-types",
-    "javascript/1-variables/variable-scopes.md",
-    "javascript/1-variables/hoisting.md",
-    "javascript/0-intro/0-what-is-javascript.md",
     "javascript/1-variables",
     "javascript/0-intro",
-    "javascript/Vite JS.md",
-    "javascript/Quando utilizar Async Await.md",
-    "javascript/Prototype.md",
-    "javascript/Promises.md",
-    "javascript/Path.md",
-    "javascript/O que é Call Stack e Memory Heap.md",
-    "javascript/ESlint and Prettier.md",
-    "javascript/Closures.md",
-    "javascript/Array.md",
-    "javascript/A diferença entre valor e referência em JavaScript.md",
-    "react/0-quick-start.md",
-    "README.md",
-    "nodejs/http/difference-between-401-vs-403.md",
-    "http/HTTP Request.md",
     "-/attachments/nest_jwt_0.png",
     "attachments/canvas/Untitled.canvas",
     "databases/Untitled.png",
