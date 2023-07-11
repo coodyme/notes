@@ -1,4 +1,6 @@
-#react
+#react 
+#frontend 
+#docs
 
 ## Creating and nesting components
 
