@@ -58,12 +58,12 @@ For example
 
 ```jsx
 function Child(props) {
-	return ( 
-	  <> 
+  return ( 
+    <> 
       <p>Name: {props.name}</p> 
       <p>Age: {props.age}</p> 
-    </> 
-	);
+    </>
+  );
 }
 
 export default Child;
@@ -71,9 +71,9 @@ export default Child;
 
 ```jsx
 function Parent() {
-	return ( 
-	  <Child name="Foo" age={30} />
-	);
+  return ( 
+    <Child name="Foo" age={30} />
+  );
 }
 
 export default Parent;
