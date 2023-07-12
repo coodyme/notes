@@ -145,13 +145,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,14 +167,15 @@
   },
   "active": "cb17ea27cc8b89fd",
   "lastOpenFiles": [
+    "-/attachments/state-and-props-00.png",
+    "-/attachments/00-state-and-props-1.png",
     "-/attachments/00-state-and-props.png",
+    "react/state-and-props.md",
     "react/what-is-a-react-hook.md",
     "-/excalidraw/Drawing 2023-07-12 12.51.44.excalidraw.md",
     "-/attachments/event-loop-0.gif",
     "-/attachments/Pasted image 20230712130724.png",
-    "react/state-and-props.md",
     "-/templates/TEMPLATE.md",
-    "-/attachments/00-state-and-props.png",
     "javascript/media-capture.md",
     "-/attachments/Pasted image 20230707081930.png",
     "-/attachments/Pasted image 20230712125642.png",
@@ -186,9 +185,7 @@
     "-/attachments/Pasted image 20230712125404.png",
     "-/attachments/Pasted image 20230712125446.png",
     "-/attachments/Pasted image 20230712125512.png",
-    "-/excalidraw/Drawing 2023-07-12 12.51.44.excalidraw.svg",
     "-/attachments/excalidraw/Drawing 2023-07-12 12.46.16.excalidraw.md",
-    "-/attachments/excalidraw/Drawing 2023-07-12 12.46.16.excalidraw.png",
     "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
     "react/class-components.md",
     "react/keys-in-react.md",

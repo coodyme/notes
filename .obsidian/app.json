@@ -16,5 +16,6 @@
   "attachmentFolderPath": "-/attachments",
   "tabSize": 2,
   "newFileLocation": "current",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
