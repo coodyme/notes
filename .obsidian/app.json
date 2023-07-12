@@ -17,5 +17,6 @@
   "tabSize": 2,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "useTab": false
 }

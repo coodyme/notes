@@ -59,10 +59,10 @@ For example
 ```jsx
 function Child(props) {
 	return ( 
-		<> 
-			<p>Name: {props.name}</p> 
-			<p>Age: {props.age}</p> 
-		</> 
+	  <> 
+      <p>Name: {props.name}</p> 
+      <p>Age: {props.age}</p> 
+    </> 
 	);
 }
 
@@ -72,7 +72,7 @@ export default Child;
 ```jsx
 function Parent() {
 	return ( 
-		<Child name="Foo" age={30} />
+	  <Child name="Foo" age={30} />
 	);
 }
 
@@ -83,7 +83,9 @@ In this example, we have a `Child` component, which takes two props `name` and `
 
 ## What is the difference between State and Props?
 
-|    Type    |                                 State                                 | Props                                                   |
+Hero some differences between `State` and `Props`
+
+|            |                                 State                                 | Props                                                   |
 |:----------:|:---------------------------------------------------------------------:|---------------------------------------------------------|
 | Use Case   | Store the data of the components that have to be rendered to the view | Pass data and event handlers to the children components |
 | Mutability | State holds the data and can change over time                         | Immutable when it is set, props cannot be changed       |
