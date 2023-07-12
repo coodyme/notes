@@ -10,7 +10,7 @@
 - State is similar to props, but it is private and fully controlled by the component
 - It is not accessible to any other component till the owner component decides to pass i
 
-![[Pasted image 20230712125642.png]]
+![[00-state-and-props.png]]
 
 ## What are Props?
 

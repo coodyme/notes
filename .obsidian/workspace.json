@@ -11,11 +11,9 @@
             "id": "cb17ea27cc8b89fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "react/state-and-props.md",
-                "mode": "source",
-                "source": false
+                "file": "-/attachments/00-state-and-props.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/state-and-props.md",
+                "file": "-/attachments/00-state-and-props.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/state-and-props.md",
+                "file": "-/attachments/00-state-and-props.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/state-and-props.md"
+                "file": "-/attachments/00-state-and-props.png"
               }
             }
           },
@@ -169,12 +167,13 @@
   },
   "active": "cb17ea27cc8b89fd",
   "lastOpenFiles": [
-    "-/attachments/Pasted image 20230712125642.png",
     "-/attachments/Pasted image 20230707081930.png",
-    "react/Pasted image 20230712125512.png.md",
     "react/state-and-props.md",
-    "react/dom-virtual-dom-shadow-dom.md",
+    "-/attachments/00-state-and-props.png",
     "-/excalidraw/Drawing 2023-07-12 12.51.44.excalidraw.md",
+    "-/attachments/Pasted image 20230712125642.png",
+    "react/Pasted image 20230712125512.png.md",
+    "react/dom-virtual-dom-shadow-dom.md",
     "react/controlled-vs-uncontrolled-components.md",
     "-/attachments/Pasted image 20230712125404.png",
     "-/attachments/Pasted image 20230712125446.png",
@@ -214,9 +213,7 @@
     "-/attachments/gid1.6.gif",
     "attachments/excalidraw",
     "attachments",
-    "-/attachments/nest_jwt_0.png",
     "attachments/canvas/Untitled.canvas",
-    "databases/Untitled.png",
     "apps/Untitled.canvas"
   ]
 }
