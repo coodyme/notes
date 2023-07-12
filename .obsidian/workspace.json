@@ -11,9 +11,11 @@
             "id": "cb17ea27cc8b89fd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "-/attachments/00-state-and-props.png"
+                "file": "react/state-and-props.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-/attachments/00-state-and-props.png",
+                "file": "react/state-and-props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-/attachments/00-state-and-props.png",
+                "file": "react/state-and-props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-/attachments/00-state-and-props.png"
+                "file": "react/state-and-props.md"
               }
             }
           },
@@ -167,10 +169,16 @@
   },
   "active": "cb17ea27cc8b89fd",
   "lastOpenFiles": [
-    "-/attachments/Pasted image 20230707081930.png",
-    "react/state-and-props.md",
     "-/attachments/00-state-and-props.png",
+    "react/what-is-a-react-hook.md",
     "-/excalidraw/Drawing 2023-07-12 12.51.44.excalidraw.md",
+    "-/attachments/event-loop-0.gif",
+    "-/attachments/Pasted image 20230712130724.png",
+    "react/state-and-props.md",
+    "-/templates/TEMPLATE.md",
+    "-/attachments/00-state-and-props.png",
+    "javascript/media-capture.md",
+    "-/attachments/Pasted image 20230707081930.png",
     "-/attachments/Pasted image 20230712125642.png",
     "react/Pasted image 20230712125512.png.md",
     "react/dom-virtual-dom-shadow-dom.md",
@@ -184,7 +192,6 @@
     "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
     "react/class-components.md",
     "react/keys-in-react.md",
-    "react/what-is-a-react-hook.md",
     "react/what-is-jsx.md",
     "react/docs/0-quick-start.md",
     "react/apis/0-create-context.md",
@@ -201,16 +208,12 @@
     "react/3-hooks/10-use-ref.md",
     "react/3-hooks/9-use-reducer.md",
     "react/3-hooks/8-use-memo.md",
-    "react/3-hooks/7-use-layout-effect.md",
-    "react/3-hooks/6-use-imperative-handle.md",
     "Untitled.canvas",
     "react/2-rendering",
     "react/1-components",
     "react/0-cli-tools",
     "react/docs",
-    "-/attachments/event-loop-0.gif",
     "-/attachments/excalidraw",
-    "-/attachments/gid1.6.gif",
     "attachments/excalidraw",
     "attachments",
     "attachments/canvas/Untitled.canvas",

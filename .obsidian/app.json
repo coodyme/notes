@@ -15,5 +15,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "-/attachments",
   "tabSize": 2,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "newLinkFormat": "relative"
 }
