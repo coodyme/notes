@@ -11,8 +11,12 @@
             "id": "cb17ea27cc8b89fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "react/state-and-props.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "react/state-and-props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "react/state-and-props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "react/state-and-props.md"
+              }
             }
           },
           {
@@ -161,10 +169,21 @@
   },
   "active": "cb17ea27cc8b89fd",
   "lastOpenFiles": [
+    "-/attachments/Pasted image 20230712125642.png",
+    "-/attachments/Pasted image 20230707081930.png",
+    "react/Pasted image 20230712125512.png.md",
+    "react/state-and-props.md",
+    "react/dom-virtual-dom-shadow-dom.md",
+    "-/excalidraw/Drawing 2023-07-12 12.51.44.excalidraw.md",
+    "react/controlled-vs-uncontrolled-components.md",
+    "-/attachments/Pasted image 20230712125404.png",
+    "-/attachments/Pasted image 20230712125446.png",
+    "-/attachments/Pasted image 20230712125512.png",
+    "-/excalidraw/Drawing 2023-07-12 12.51.44.excalidraw.svg",
+    "-/attachments/excalidraw/Drawing 2023-07-12 12.46.16.excalidraw.md",
+    "-/attachments/excalidraw/Drawing 2023-07-12 12.46.16.excalidraw.png",
     "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
     "react/class-components.md",
-    "react/controlled-vs-uncontrolled-components.md",
-    "react/dom-virtual-dom-shadow-dom.md",
     "react/keys-in-react.md",
     "react/what-is-a-react-hook.md",
     "react/what-is-jsx.md",
@@ -185,18 +204,12 @@
     "react/3-hooks/8-use-memo.md",
     "react/3-hooks/7-use-layout-effect.md",
     "react/3-hooks/6-use-imperative-handle.md",
-    "react/3-hooks/5-use-id.md",
-    "react/3-hooks/3-use-deferred-value.md",
-    "react/3-hooks/2-use-debug-value.md",
-    "react/3-hooks/1-use-context.md",
-    "react/3-hooks/0-use-callback.md",
     "Untitled.canvas",
     "react/2-rendering",
     "react/1-components",
     "react/0-cli-tools",
     "react/docs",
     "-/attachments/event-loop-0.gif",
-    "-/attachments/Pasted image 20230707081930.png",
     "-/attachments/excalidraw",
     "-/attachments/gid1.6.gif",
     "attachments/excalidraw",
@@ -204,11 +217,6 @@
     "-/attachments/nest_jwt_0.png",
     "attachments/canvas/Untitled.canvas",
     "databases/Untitled.png",
-    "Pasted image 20230616160314.png",
-    "excalidraw/Drawing 2023-06-16 13.47.00.excalidraw.png",
-    "Pasted image 20230616134715.png",
-    "zendesk/images/zendesk_oauth_ss_0.png",
-    "excalidraw/Drawing 2023-06-12 13.17.09.excalidraw.png",
     "apps/Untitled.canvas"
   ]
 }

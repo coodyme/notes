@@ -1,5 +1,5 @@
 {
-  "folder": "-/attachments/excalidraw",
+  "folder": "-/excalidraw",
   "embedUseExcalidrawFolder": true,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
@@ -47,7 +47,7 @@
   "iframelyAllowed": true,
   "pngExportScale": 1,
   "exportWithTheme": true,
-  "exportWithBackground": true,
+  "exportWithBackground": false,
   "exportPaddingSVG": 10,
   "keepInSync": false,
   "autoexportSVG": false,
