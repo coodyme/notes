@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,12 +166,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb17ea27cc8b89fd",
+  "active": "6765c868efb7884d",
   "lastOpenFiles": [
+    "react/3-hooks/11-use-state.md",
+    "react/state-and-props.md",
     "-/attachments/state-and-props-00.png",
     "-/attachments/00-state-and-props-1.png",
     "-/attachments/00-state-and-props.png",
-    "react/state-and-props.md",
     "react/what-is-a-react-hook.md",
     "-/excalidraw/Drawing 2023-07-12 12.51.44.excalidraw.md",
     "-/attachments/event-loop-0.gif",
@@ -201,7 +203,6 @@
     "react/3-hooks/13-use-transition.md",
     "react/3-hooks/4-use-effect.md",
     "react/3-hooks/12-use-sync-external-store.md",
-    "react/3-hooks/11-use-state.md",
     "react/3-hooks/10-use-ref.md",
     "react/3-hooks/9-use-reducer.md",
     "react/3-hooks/8-use-memo.md",
