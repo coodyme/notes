@@ -88,4 +88,4 @@ In this example we used `ref` to access checkbox value.
 
 > It is optional for the uncontrolled component to have a state, but it must use `ref`.
 
-> Uncontrolled components are helpful when we need to integrate react with other libraries which do not follow react design patterns.
+> Uncontrolled components are helpful when we need to integrate react with other libraries which do not follow react design patterns. (React Hook Form)

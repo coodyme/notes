@@ -19,3 +19,7 @@ That means the most recently executed function is the first one to be removed fr
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
 http://latentflip.com/loupe
+
+https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=729s
+
+https://medium.com/globant/what-are-micro-tasks-and-macro-tasks-in-the-event-loop-29bc0abdd445

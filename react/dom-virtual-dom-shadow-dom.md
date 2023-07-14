@@ -4,9 +4,20 @@
 
 ## What is DOM?
 
-It is the representation of a webpage structure in the form of a tree. It acts as an API to the web document, allowing programmatic interaction like, change document style, structure and content
+It is the representation of a web page structure in the form of a tree. It acts as an API to the web document, allowing programmatic interaction like, change document style, structure and content
 
-https://www.syncfusion.com/blogs/post/virtual-dom-vs-shadow-dom-what-every-developer-should-know.aspx
+- Document Object Model.
+- Interface for Web Documents.
+- Represents the Structure of an HTML document as a tree-like model.
+- Provides a way to interact with the element and content of a web page dynamically.
+- Allows you to access, manipulate, add, or remove element and their attributes using `JavaScirpt`.
+
+The `DOM` represents the current state of the web page, when an HTML document is loaded into a Browser, the Browser parses the HTML and creates a DOM tree.
+
+- Each element in HTML becomes a node in the DOM tree, and the relationship between elements is represented by parent-child relationship between nodes
+
+![](../-/attachments/dom-virtual-dom-shadow-dom-00.png)
+
 
 ## What is Shadow DOM?
 
@@ -17,9 +28,11 @@ A shadow DOM is a tool mainly used to create component-based websites and applic
 - Allows scoping of CSS
 - Increases application performance, since DOM manipulation does not need to render the entire DOM
 
-## What is Virtual DOM
+## What is Virtual DOM ?
 
-The Virtual DOM is an in-memory representation of Real DOM. The representation of a UI is kept in memory and synced with the "real" DOM. It is a step that happens between the render functuion being called and the displaying of  elements on the screen. This entire process is called [[reconciliation]]
+The Virtual DOM is an in-memory representation of Real DOM. The representation of a UI is kept in memory and synced with the "real" DOM. It is a step that happens between the render function being called and the displaying of  elements on the screen. This entire process is called [[reconciliation]]
+
+
 
 ## How Virtual DOM works?
 
@@ -28,6 +41,8 @@ The Virtual DOM works in three simple steps.
 - Whenever any underlying date changes, the entire UI is re-rendered in Virtual DOM representation
 - Then the difference between the previous DOM representation and the new one is calculated
 - Once the calculations are done, the real DOM will be updated with only the things that have actually changed
+
+> React.js implements the concept of virtual DOMs by utilizing the `ReactDOM` package.
 
 
 ## What is the difference between Shadow DOM and Virtual DOM

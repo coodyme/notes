@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -43,23 +43,23 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#interview-question",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 14701276
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1.46536458333333,
   "lineSizeMultiplier": 1.05703125,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.048440961940729,
-  "close": true
+  "centerStrength": 0.328125,
+  "repelStrength": 10.9375,
+  "linkStrength": 0.494791666666667,
+  "linkDistance": 108,
+  "scale": 0.13806629951482843,
+  "close": false
 }

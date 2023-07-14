@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiTypescript",
       "SiNestjs",
       "SiMongodb",
       "SiJest",
-      "TiBrandCypress",
-      "SiVitest"
+      "TiBrandCypress"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,7 @@
   "python": "FabPython",
   "react": "FabReact",
   "tailwind": "LiFolder",
-  "typescript": "LiType",
+  "typescript": "SiTypescript",
   "vitest": "SiVitest",
   "vue": "FabVuejs",
   "zendesk": "LiFolder",

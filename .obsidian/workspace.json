@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b34da641625b0303",
+        "id": "4a6257d0043c7c94",
         "type": "tabs",
         "children": [
           {
-            "id": "cb17ea27cc8b89fd",
+            "id": "af8184db692aaa24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/state-and-props.md",
+                "file": "javascript/arrow-and-regular-functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.5
   },
   "right": {
     "id": "9941d871b9c3b5ca",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/state-and-props.md",
+                "file": "javascript/arrow-and-regular-functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/state-and-props.md",
+                "file": "javascript/arrow-and-regular-functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/state-and-props.md"
+                "file": "javascript/arrow-and-regular-functions.md"
               }
             }
           },
@@ -166,46 +166,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6765c868efb7884d",
+  "active": "af8184db692aaa24",
   "lastOpenFiles": [
-    "react/3-hooks/11-use-state.md",
+    "javascript/arrow-and-regular-functions.md",
+    "react/what-is-jsx.md",
+    "react/what-is-prop-drilling.md",
+    "react/what-is-a-react-hook.md",
+    "react/useState-and-useRef.md",
+    "react/dom-virtual-dom-shadow-dom.md",
+    "react/useMemo-and-useCallback.md",
     "react/state-and-props.md",
+    "react/useEffect-and-useLayoutEffect.md",
+    "typescript/most-common-ts-questions.md",
+    "typescript/what-are-generics.md",
+    "typescript/testing.md",
+    "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
+    "graphql/what-is-graphql.md",
+    "react/controlled-vs-uncontrolled-components.md",
+    "react/lifecycle-methods.md",
+    "react/class-components.md",
+    "react/keys-in-react.md",
+    "nodejs/difference-between-401-403.md",
+    "nodejs/difference-between-path-put.md",
+    "javascript/event-loop.md",
+    "javascript/event-bubbling.md",
+    "javascript/hoisting.md",
+    "nodejs/status-code.md",
+    "nodejs/http-methods.md",
+    "nodejs/Untitled.md",
+    "-/attachments/dom-virtual-dom-shadow-dom-00.png",
     "-/attachments/state-and-props-00.png",
     "-/attachments/00-state-and-props-1.png",
     "-/attachments/00-state-and-props.png",
-    "react/what-is-a-react-hook.md",
-    "-/excalidraw/Drawing 2023-07-12 12.51.44.excalidraw.md",
     "-/attachments/event-loop-0.gif",
     "-/attachments/Pasted image 20230712130724.png",
-    "-/templates/TEMPLATE.md",
-    "javascript/media-capture.md",
     "-/attachments/Pasted image 20230707081930.png",
     "-/attachments/Pasted image 20230712125642.png",
-    "react/Pasted image 20230712125512.png.md",
-    "react/dom-virtual-dom-shadow-dom.md",
-    "react/controlled-vs-uncontrolled-components.md",
     "-/attachments/Pasted image 20230712125404.png",
     "-/attachments/Pasted image 20230712125446.png",
-    "-/attachments/Pasted image 20230712125512.png",
-    "-/attachments/excalidraw/Drawing 2023-07-12 12.46.16.excalidraw.md",
-    "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
-    "react/class-components.md",
-    "react/keys-in-react.md",
-    "react/what-is-jsx.md",
-    "react/docs/0-quick-start.md",
-    "react/apis/0-create-context.md",
-    "react/apis/1-forward-ref.md",
     "react/0-quick-start/Untitled",
     "react/0-cli-tools",
-    "react/0-cli-tools.md",
     "react/docs",
-    "javascript/event-loop.md",
-    "react/3-hooks/13-use-transition.md",
-    "react/3-hooks/4-use-effect.md",
-    "react/3-hooks/12-use-sync-external-store.md",
-    "react/3-hooks/10-use-ref.md",
-    "react/3-hooks/9-use-reducer.md",
-    "react/3-hooks/8-use-memo.md",
     "Untitled.canvas",
     "react/2-rendering",
     "react/1-components",
