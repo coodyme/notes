@@ -1,3 +1,0 @@
-#devops 
-#github 
-#aws

@@ -1,3 +1,0 @@
-#jest
-#testing 
-#unit-testing

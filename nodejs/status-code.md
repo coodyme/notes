@@ -1,3 +1,7 @@
+#nodejs 
+#backend 
+#interview-question 
+
 ## When to Use 400 Bad Request?
 
 Let's start with a simple case: a client calls your protected API, omitting a required parameter. In this case, your API should respond with a `400 Bad Request` status code

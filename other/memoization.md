@@ -1,4 +1,0 @@
-- Just the act of caching values so that hey can be calculated quicker in the future.
-- `useMemo` is a React Hook that lets you cache the result of a calculation between re-renders.
-- A reduce with a sum
-- A map multiplying by 100 every item

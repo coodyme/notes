@@ -80,3 +80,18 @@ Similar to JavaScript, the typeof operator in TypeScript returns the type of the
 Generics allow you to create reusable pieces of code that can work with different types of data. They provide flexibility and help make your code more reusable and type-safe.
 
 Example > Response from an endpoint (use the data[] example)
+
+```ts
+type User = {
+  name: string;
+}
+
+async function fetchApi<ResultType>(path: string): Promise<ResultType> {
+  const response = await fetch(`https://example.com/api${path}`);
+  return response.json();
+}
+
+const data = await fetchApi<User[]>('/users')
+
+export {}
+```

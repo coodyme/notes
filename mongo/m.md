@@ -1,4 +1,0 @@
-
-#mongo
-#databases 
-#no-sql

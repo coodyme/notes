@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6257d0043c7c94",
+        "id": "ebb60fb3de419459",
         "type": "tabs",
         "children": [
           {
-            "id": "af8184db692aaa24",
+            "id": "9841bccc2702ebee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/arrow-and-regular-functions.md",
+                "file": "react/state-and-props.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/arrow-and-regular-functions.md",
+                "file": "react/state-and-props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/arrow-and-regular-functions.md",
+                "file": "react/state-and-props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/arrow-and-regular-functions.md"
+                "file": "react/state-and-props.md"
               }
             }
           },
@@ -166,34 +166,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af8184db692aaa24",
+  "active": "9841bccc2702ebee",
   "lastOpenFiles": [
-    "javascript/arrow-and-regular-functions.md",
-    "react/what-is-jsx.md",
-    "react/what-is-prop-drilling.md",
-    "react/what-is-a-react-hook.md",
-    "react/useState-and-useRef.md",
-    "react/dom-virtual-dom-shadow-dom.md",
-    "react/useMemo-and-useCallback.md",
-    "react/state-and-props.md",
-    "react/useEffect-and-useLayoutEffect.md",
-    "typescript/most-common-ts-questions.md",
-    "typescript/what-are-generics.md",
-    "typescript/testing.md",
-    "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
-    "graphql/what-is-graphql.md",
+    "react/zustand-vs-context.md",
+    "react/zustand-vs-redux.md",
     "react/controlled-vs-uncontrolled-components.md",
-    "react/lifecycle-methods.md",
-    "react/class-components.md",
-    "react/keys-in-react.md",
-    "nodejs/difference-between-401-403.md",
-    "nodejs/difference-between-path-put.md",
-    "javascript/event-loop.md",
-    "javascript/event-bubbling.md",
-    "javascript/hoisting.md",
-    "nodejs/status-code.md",
+    "react/context-vs-redux.md",
+    "css/tailwind-vs-styled-components.md",
+    "css/tailwind.md",
+    "react/what-is-a-react-hook.md",
+    "react/context-api.md",
+    "testing/vitest.md",
+    "testing/cypress.md",
+    "testing/jest.md",
+    "typescript/most-common-ts-questions.md",
+    "typescript/testing.md",
     "nodejs/http-methods.md",
-    "nodejs/Untitled.md",
+    "nodejs/nestjs.md",
+    "nodejs/fastify.md",
+    "nodejs/express.md",
+    "javascript/array-methods.md",
+    "javascript/high-order-function.md",
+    "javascript/pure-functions.md",
+    "javascript/promise.md",
+    "javascript/memoization.md",
+    "javascript/event-loop.md",
+    "react/dom-virtual-dom-shadow-dom.md",
+    "javascript/block-scope.md",
+    "javascript/event-bubbling.md",
+    "css",
+    "github",
+    "databases/Untitled.png",
+    "-/temporary",
+    "Untitled.canvas",
     "-/attachments/dom-virtual-dom-shadow-dom-00.png",
     "-/attachments/state-and-props-00.png",
     "-/attachments/00-state-and-props-1.png",
@@ -203,18 +208,13 @@
     "-/attachments/Pasted image 20230707081930.png",
     "-/attachments/Pasted image 20230712125642.png",
     "-/attachments/Pasted image 20230712125404.png",
-    "-/attachments/Pasted image 20230712125446.png",
     "react/0-quick-start/Untitled",
     "react/0-cli-tools",
     "react/docs",
-    "Untitled.canvas",
     "react/2-rendering",
     "react/1-components",
     "react/0-cli-tools",
     "react/docs",
-    "-/attachments/excalidraw",
-    "attachments/excalidraw",
-    "attachments",
     "attachments/canvas/Untitled.canvas",
     "apps/Untitled.canvas"
   ]
