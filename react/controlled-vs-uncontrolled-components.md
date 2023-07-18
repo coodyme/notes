@@ -4,7 +4,11 @@
 
 ## What is the difference between controlled components and uncontrolled components  
 
+In React, components are the building blocks of user interfaces. Controlled and uncontrolled components refer to two different ways of managing and handling form elements, like input fields, checkboxes, and radio buttons, in React applications.
+
 ### Controlled
+
+A controlled component is one where the form element's value is controlled by React state. This means that the React component manages and tracks the input value, and the input value is tied to the component's state.
 
 A component in React is referred to as `controlled` when we let react control the component for us. 
 

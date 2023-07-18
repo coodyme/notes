@@ -21,7 +21,7 @@ type Supervisor = Employee & Manager;
 
 ### What are union types in TypeScript?
 
-A union type is a special construct in TypeScript that indicates that a value can be one of several types. A vertical bar (|) separates these types.
+A union type is a special construct in TypeScript that indicates that a value can be one of several types. A vertical bar `|` separates these types.
 
 ```ts
 type methods = 'GET' | 'SET' | 'POST';
@@ -32,7 +32,7 @@ type alphanumeric = string | number;
 
 TypeScript can infer the type of a variable when you don’t provide an explicit type.
 
-### 1. What are the primitive types in TypeScript?
+### What are the primitive types in TypeScript?
 
 TypeScript has three primitive types that are frequently used: string, number, and boolean. These correspond to the similarly named types in JavaScript. 
 
@@ -40,7 +40,7 @@ TypeScript has three primitive types that are frequently used: string, number, a
 - **number**: represents numeric values like 1, 2, 32, 43, etc.
 - **boolean:** represents a variable that can have either a ‘true’ or ‘false’ value.
 
-### 2. What is any type, and when to use it?
+### What is any type, and when to use it?
 
 There are times when you want to store a value in a variable but don’t know the type of that variable in advance.
 
@@ -52,11 +52,9 @@ The void indicates the absence of type on a variable. It acts as the opposite ty
 If a variable is of type void, you can only assign the null or undefined values to that variable.
 
 
-
-### 5. What is an unknown type, and when to use it in TypeScript?
+### What is an unknown type, and when to use it in TypeScript?
 
 The unknown type is the type-safe counterpart of any type. You can assign anything to the unknown, but the unknown isn’t assignable to anything but itself and any,
-
 
 
 ###  Explain the concept of null and its use in TypeScript.
@@ -64,11 +62,9 @@ The unknown type is the type-safe counterpart of any type. You can assign anythi
 In programming, a null value indicates an absence of value. A null variable doesn’t point to any object.
 
 
-
 ### What is undefined in TypeScript?
 
 When a variable is declared without initialization
-
 
 
 ### What is the typeof operator? How is it used in TypeScript?

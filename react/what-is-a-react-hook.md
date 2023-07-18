@@ -4,7 +4,7 @@
 
 ##  What is a React Hook
 
-React Hooks are simple JavaScript functions that we can use to isolate the reusable part from a function components.
+React Hooks are simple JavaScript functions that we can use to isolate the reusable part from functional components.
 
 - Hooks can be stateful and can manage side-effects
 - React provides a bunch of standard in-built hooks

@@ -10,3 +10,10 @@ In JavaScript, a promise is an object that represents the eventual completion or
 3. Rejected: The state of a promise when the asynchronous operation has failed or encountered an error. In this state, the promise holds the reason or error message for the failure.
 
 Promises have methods such as `.then()` and `.catch()` that allow you to attach callbacks to handle the fulfillment or rejection of the promise. The `.then()` method is called when the promise is fulfilled, and the `.catch()` method is called when the promise is rejected.
+
+
+### Promise Methods
+
+- a
+
+### What is the difference between promises `Promise.all` and `Promise.AllSettled` ?

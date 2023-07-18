@@ -5,7 +5,9 @@ In React, `useEffect` is a built-in hook that allows you to perform side effects
 
 The `useEffect` hook is used to handle these side effects in a declarative way, ensuring they are performed consistently and at the appropriate times during the component's lifecycle.
 
-## Should I useEffect or useLayoutEffect?
+### Cleanup
+
+### Should I useEffect or useLayoutEffect?
 
 Most of the time, `useEffect` is the right choice. If your code is causing flickering, switch to `useLayoutEffect` and see if that helps.
 
