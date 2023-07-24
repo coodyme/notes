@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb60fb3de419459",
+        "id": "f839b5f31dadce7d",
         "type": "tabs",
         "children": [
           {
-            "id": "9841bccc2702ebee",
+            "id": "1c852bca3423a2a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/redux.md",
+                "file": "javascript/promise.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/redux.md",
+                "file": "javascript/promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/redux.md",
+                "file": "javascript/promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/redux.md"
+                "file": "javascript/promise.md"
               }
             }
           },
@@ -166,16 +166,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9841bccc2702ebee",
+  "active": "1c852bca3423a2a0",
   "lastOpenFiles": [
-    "react/state-and-props.md",
     "react/useEffect-and-useLayoutEffect.md",
+    "react/redux.md",
+    "react/state-and-props.md",
     "react/useMemo-and-useCallback.md",
     "javascript/concurrency.md",
     "javascript/promise.md",
     "react/lifecycle-methods.md",
     "react/nextjs.md",
-    "react/redux.md",
     "react/useState-and-useRef.md",
     "react/what-is-a-react-hook.md",
     "react/what-is-jsx.md",

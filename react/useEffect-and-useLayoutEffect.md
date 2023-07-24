@@ -19,3 +19,5 @@ Because `useLayoutEffect` is synchronous a.k.a. _blocking_ a.k.a. the app wo
 4. The screen is visually updated
 
 https://daveceddia.com/useeffect-vs-uselayouteffect/
+https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/
+https://stackoverflow.com/questions/53090432/react-hooks-right-way-to-clear-timeouts-and-intervals

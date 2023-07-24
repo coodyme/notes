@@ -17,3 +17,7 @@ Promises have methods such as `.then()` and `.catch()` that allow you to attach 
 - a
 
 ### What is the difference between promises `Promise.all` and `Promise.AllSettled` ?
+
+
+https://dev.to/swarnaliroy94/methods-of-promise-all-any-finally-o2e
+https://stackoverflow.com/questions/59784175/differences-between-promise-all-and-promise-allsettled-in-js
