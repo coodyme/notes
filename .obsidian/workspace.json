@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/promise.md",
+                "file": "react/nextjs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/promise.md",
+                "file": "react/nextjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/promise.md",
+                "file": "react/nextjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/promise.md"
+                "file": "react/nextjs.md"
               }
             }
           },
@@ -168,14 +168,17 @@
   },
   "active": "1c852bca3423a2a0",
   "lastOpenFiles": [
+    "react/keys-in-react.md",
+    "react/nextjs.md",
+    "iac/serverless-framework.md",
+    "iac/terraform.md",
+    "javascript/promise.md",
     "react/useEffect-and-useLayoutEffect.md",
     "react/redux.md",
     "react/state-and-props.md",
     "react/useMemo-and-useCallback.md",
     "javascript/concurrency.md",
-    "javascript/promise.md",
     "react/lifecycle-methods.md",
-    "react/nextjs.md",
     "react/useState-and-useRef.md",
     "react/what-is-a-react-hook.md",
     "react/what-is-jsx.md",
@@ -189,11 +192,8 @@
     "react/high-order-components.md",
     "javascript/high-order-function.md",
     "react/controlled-vs-uncontrolled-components.md",
-    "react/keys-in-react.md",
     "react/dom-virtual-dom-shadow-dom.md",
     "react/context-api.md",
-    "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
-    "react/class-components.md",
     "css",
     "github",
     "databases/Untitled.png",
