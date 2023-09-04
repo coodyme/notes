@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiCss3",
-      "SiHtml5",
-      "TiApi",
-      "TiSettingsUp",
-      "SiGithub"
+      "SiMicrosoftazure",
+      "SiAzuredevops",
+      "SiRedis",
+      "SiMongodb",
+      "SiPostgresql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,9 @@
   "iac": "TiSettingsUp",
   "api": "TiApi",
   "html": "SiHtml5",
-  "css": "SiCss3"
+  "css": "SiCss3",
+  "postgresql": "SiPostgresql",
+  "mongodb": "SiMongodb",
+  "redis": "SiRedis",
+  "azure": "SiMicrosoftazure"
 }

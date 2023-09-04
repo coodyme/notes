@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f839b5f31dadce7d",
+        "id": "a3442d2a974ea24d",
         "type": "tabs",
         "children": [
           {
-            "id": "1c852bca3423a2a0",
+            "id": "0e7e4c29d9f92783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/nextjs.md",
+                "file": "react/5-state-management/zustand.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#react",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/nextjs.md",
+                "file": "react/5-state-management/zustand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/nextjs.md",
+                "file": "react/5-state-management/zustand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/nextjs.md"
+                "file": "react/5-state-management/zustand.md"
               }
             }
           },
@@ -166,38 +166,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c852bca3423a2a0",
+  "active": "0e7e4c29d9f92783",
   "lastOpenFiles": [
+    "react/7-api-calls/react-query.md",
+    "testing/test-react-hooks-with-vitest.md",
+    "testing/vitest.md",
+    "testing/testing-library.md",
+    "react/5-state-management/zustand.md",
+    "api/tunnel-http.md",
+    "react/dom-virtual-dom-shadow-dom.md",
+    "react/high-order-components.md",
+    "react/3-hooks/2-use-debug-value.md",
+    "react/3-hooks/1-use-context.md",
+    "react/3-hooks/0-use-callback.md",
+    "react/react-query-and-zustand.md",
+    "react/7-api-calls",
+    "react/6-styling",
+    "react/5-state-management",
+    "react/4-routers",
+    "react/zustand",
+    "azure",
+    "-/templates/TEMPLATE.md",
     "react/keys-in-react.md",
+    "react/lifecycle-methods.md",
+    "databases/mongodb.md",
+    "redis",
+    "postgresql",
+    "mongodb",
+    "databases/postgresql.md",
+    "nodejs/http/difference-between-401-vs-403.md",
+    "github/github-flow.md",
+    "github/actions.md",
     "react/nextjs.md",
     "iac/serverless-framework.md",
     "iac/terraform.md",
     "javascript/promise.md",
     "react/useEffect-and-useLayoutEffect.md",
     "react/redux.md",
-    "react/state-and-props.md",
-    "react/useMemo-and-useCallback.md",
-    "javascript/concurrency.md",
-    "react/lifecycle-methods.md",
-    "react/useState-and-useRef.md",
-    "react/what-is-a-react-hook.md",
-    "react/what-is-jsx.md",
-    "react/what-is-prop-drilling.md",
-    "react/zustand-vs-redux.md",
-    "react/zustand-vs-context.md",
-    "testing/concepts.md",
-    "javascript/shallow-vs-deep-copy.md",
-    "react/context-vs-redux.md",
-    "react/react-router.md",
-    "react/high-order-components.md",
-    "javascript/high-order-function.md",
-    "react/controlled-vs-uncontrolled-components.md",
-    "react/dom-virtual-dom-shadow-dom.md",
-    "react/context-api.md",
     "css",
-    "github",
     "databases/Untitled.png",
-    "-/temporary",
     "Untitled.canvas",
     "-/attachments/dom-virtual-dom-shadow-dom-00.png",
     "-/attachments/state-and-props-00.png",
@@ -208,13 +215,6 @@
     "-/attachments/Pasted image 20230707081930.png",
     "-/attachments/Pasted image 20230712125642.png",
     "-/attachments/Pasted image 20230712125404.png",
-    "react/0-quick-start/Untitled",
-    "react/0-cli-tools",
-    "react/docs",
-    "react/2-rendering",
-    "react/1-components",
-    "react/0-cli-tools",
-    "react/docs",
     "attachments/canvas/Untitled.canvas",
     "apps/Untitled.canvas"
   ]

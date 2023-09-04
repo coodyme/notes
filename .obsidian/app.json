@@ -8,10 +8,7 @@
     "downscalePercent": 20
   },
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "pt-BR"
-  ],
+  "spellcheckLanguages": null,
   "promptDelete": false,
   "attachmentFolderPath": "-/attachments",
   "tabSize": 2,
