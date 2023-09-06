@@ -1,7 +1,8 @@
 
 #devops 
 #aws 
-#ec2
+#aws-ec2 
+#cloud 
 
 ## Extend the file system of EBS volumes
 

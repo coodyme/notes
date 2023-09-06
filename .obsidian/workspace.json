@@ -11,15 +11,26 @@
             "id": "0e7e4c29d9f92783",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "-/excalidraw/Drawing 2023-09-05 14.03.22.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1cecfa768faa65b0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "react/5-state-management/zustand.md",
+                "file": "aws/iam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/5-state-management/zustand.md",
+                "file": "aws/iam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/5-state-management/zustand.md",
+                "file": "aws/iam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/5-state-management/zustand.md"
+                "file": "aws/iam.md"
               }
             }
           },
@@ -166,55 +177,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e7e4c29d9f92783",
+  "active": "1cecfa768faa65b0",
   "lastOpenFiles": [
+    "-/excalidraw/Drawing 2023-09-05 14.03.22.excalidraw.md",
+    "aws/iam.md",
+    "-/attachments/iam-01.png",
+    "aws/cloudwatch.md",
+    "aws/cloudtrail.md",
+    "aws/cloudfront.md",
+    "-/attachments/iam-0.png",
+    "-/attachments/dom-virtual-dom-shadow-dom-00.png",
+    "-/attachments/event-loop-0.gif",
+    "-/attachments/nest_jwt_0.png",
+    "-/attachments/nest_jwt_1.png",
+    "-/attachments/nest_jwt_2.png",
+    "-/attachments/nest_jwt_3.png",
+    "-/attachments/Pasted image 20230707081930.png",
+    "-/attachments/state-and-props-00.png",
+    "-/excalidraw/Drawing 2023-07-12 12.51.44.excalidraw.md",
+    "-/excalidraw/Drawing 2023-07-12 18.22.39.excalidraw.md",
+    "-/excalidraw/Drawing 2023-07-12 19.57.52.excalidraw.md",
+    "aws/ec2.md",
+    "aws/extend-file-system.md",
+    "aws/lambda.md",
+    "aws/s3.md",
+    "aws/ecs.md",
+    "aws/session-manager.md",
+    "aws/dynamo-db.md",
+    "aws/sns.md",
+    "aws/sqs.md",
+    "react/5-state-management/zustand.md",
     "react/7-api-calls/react-query.md",
     "testing/test-react-hooks-with-vitest.md",
     "testing/vitest.md",
     "testing/testing-library.md",
-    "react/5-state-management/zustand.md",
     "api/tunnel-http.md",
     "react/dom-virtual-dom-shadow-dom.md",
     "react/high-order-components.md",
-    "react/3-hooks/2-use-debug-value.md",
-    "react/3-hooks/1-use-context.md",
-    "react/3-hooks/0-use-callback.md",
-    "react/react-query-and-zustand.md",
     "react/7-api-calls",
     "react/6-styling",
     "react/5-state-management",
     "react/4-routers",
     "react/zustand",
     "azure",
-    "-/templates/TEMPLATE.md",
-    "react/keys-in-react.md",
-    "react/lifecycle-methods.md",
-    "databases/mongodb.md",
     "redis",
     "postgresql",
     "mongodb",
-    "databases/postgresql.md",
-    "nodejs/http/difference-between-401-vs-403.md",
-    "github/github-flow.md",
-    "github/actions.md",
-    "react/nextjs.md",
-    "iac/serverless-framework.md",
-    "iac/terraform.md",
-    "javascript/promise.md",
-    "react/useEffect-and-useLayoutEffect.md",
-    "react/redux.md",
     "css",
-    "databases/Untitled.png",
     "Untitled.canvas",
-    "-/attachments/dom-virtual-dom-shadow-dom-00.png",
-    "-/attachments/state-and-props-00.png",
-    "-/attachments/00-state-and-props-1.png",
-    "-/attachments/00-state-and-props.png",
-    "-/attachments/event-loop-0.gif",
-    "-/attachments/Pasted image 20230712130724.png",
-    "-/attachments/Pasted image 20230707081930.png",
-    "-/attachments/Pasted image 20230712125642.png",
-    "-/attachments/Pasted image 20230712125404.png",
     "attachments/canvas/Untitled.canvas",
     "apps/Untitled.canvas"
   ]

@@ -1,3 +1,0 @@
-#devops 
-#aws 
-#databases
