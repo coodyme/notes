@@ -9,7 +9,7 @@
 - Developers
 - Git Flow approach
 
-git flow diagram
+![](../-/attachments/diagram-export-11-15-2023-7_49_28-PM.png)
 
 
 # Trunk Based Development

@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "9941d871b9c3b5ca",
@@ -101,7 +100,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -160,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,6 +175,10 @@
   },
   "active": "3aa835f4053b77e2",
   "lastOpenFiles": [
+    "-/attachments/diagram-export-11-15-2023-7_49_28-PM.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "git/trunk-based-developmentvs-git-flow.md",
     "react/state-and-props.md",
     "react/redux.md",
     "react/react-router.md",
@@ -196,7 +198,6 @@
     "react/context-api.md",
     "react/class-components.md",
     "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
-    "git/trunk-based-developmentvs-git-flow.md",
     "-/templates/TEMPLATE.md",
     "-/attachments/event-loop-0.gif",
     "-/attachments/dom-virtual-dom-shadow-dom-00.png",
@@ -212,10 +213,8 @@
     "-/temporary/Entendendo SQL.md",
     "-/temporary/api-key-auth.md",
     "-/temporary/API Request with Axios and Axios Retry.md",
-    "2023-11-15.md",
     "Untitled.canvas",
     "-/attachments/iam-01.png",
-    "-/attachments/nest_jwt_2.png",
     "react/7-api-calls",
     "react/6-styling",
     "react/5-state-management",
