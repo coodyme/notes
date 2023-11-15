@@ -11,7 +11,6 @@
 
 ![](../-/attachments/diagram-export-11-15-2023-7_49_28-PM.png)
 
-
 # Trunk Based Development
 
 - Its an alternative for **Git Flow**
@@ -24,5 +23,5 @@
 - tag releases
 - Feature Flags to enable and disable things you want or not to be in production
 
-trunk based diagram
+![](../-/attachments/diagram-export-11-15-2023-8_16_27-PM.png)
 

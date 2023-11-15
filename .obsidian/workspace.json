@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58e23328ad3280b6",
+        "id": "a3133cb41c84de8f",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa835f4053b77e2",
+            "id": "9e0eeb5b0707b7b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "git/trunk-based-developmentvs-git-flow.md",
-                "mode": "source",
-                "source": false
+                "file": "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/trunk-based-developmentvs-git-flow.md",
+                "file": "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/trunk-based-developmentvs-git-flow.md",
+                "file": "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/trunk-based-developmentvs-git-flow.md"
+                "file": "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png"
               }
             }
           },
@@ -173,12 +171,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3aa835f4053b77e2",
+  "active": "9e0eeb5b0707b7b8",
   "lastOpenFiles": [
     "-/attachments/diagram-export-11-15-2023-7_49_28-PM.png",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
+    "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
     "git/trunk-based-developmentvs-git-flow.md",
+    "README.md",
+    "-/attachments/diagram-export-11-15-2023-7_52_26-PM.png",
+    "2023-11-15.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
     "react/state-and-props.md",
     "react/redux.md",
     "react/react-router.md",
@@ -208,13 +211,8 @@
     "-/attachments/nest_jwt_3.png",
     "-/attachments/nest_jwt_1.png",
     "-/attachments/nest_jwt_0.png",
-    "-/attachments/iam-0.png",
     "-/temporary/ExpressJS.md",
     "-/temporary/Entendendo SQL.md",
-    "-/temporary/api-key-auth.md",
-    "-/temporary/API Request with Axios and Axios Retry.md",
-    "Untitled.canvas",
-    "-/attachments/iam-01.png",
     "react/7-api-calls",
     "react/6-styling",
     "react/5-state-management",
