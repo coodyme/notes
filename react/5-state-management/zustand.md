@@ -84,3 +84,9 @@ export const useCountStore = create<CountStore>()(
 
 Docs: https://github.com/pmndrs/zustand
 
+## Recommended Patterns
+
+- **Single Store**: Application global state should be located in a single Zustand store, if you have a large application, you can use [Slice Pattern](https://docs.pmnd.rs/zustand/guides/slices-pattern)
+- **State**: Always use set or setState to perform updates
+- **Selectors**: To avoid use state => state.myState use https://docs.pmnd.rs/zustand/guides/auto-generating-selectors
+- 
