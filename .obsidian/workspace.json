@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a3133cb41c84de8f",
+        "id": "e507c3274f77a066",
         "type": "tabs",
         "children": [
           {
-            "id": "9e0eeb5b0707b7b8",
+            "id": "bd7a0dda3e2bae56",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png"
+                "file": "proxmox/before-use-proxmox.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 370.5
   },
   "right": {
     "id": "9941d871b9c3b5ca",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
+                "file": "proxmox/before-use-proxmox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
+                "file": "proxmox/before-use-proxmox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png"
+                "file": "proxmox/before-use-proxmox.md"
               }
             }
           },
@@ -149,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -157,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,37 +176,41 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9e0eeb5b0707b7b8",
+  "active": "bd7a0dda3e2bae56",
   "lastOpenFiles": [
-    "-/attachments/diagram-export-11-15-2023-7_49_28-PM.png",
-    "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
+    "nodejs/child_process/How to launch Child process in Node.js.md",
+    "patterns/observer.md",
+    "patterns/composition.md",
+    "proxmox/before-use-proxmox.md",
+    "react/zustand-vs-context.md",
+    "proxmox",
+    "html/accessibility.md",
+    "react/zustand-and-react-query.md",
+    "react/what-is-prop-drilling.md",
+    "react/what-is-jsx.md",
+    "react/what-is-a-react-hook.md",
+    "react/state-and-props.md",
+    "react/useEffect-and-useLayoutEffect.md",
+    "react/useState-and-useRef.md",
+    "react/useMemo-and-useCallback.md",
+    "docker/dockerizedas-nodejs.md",
+    "docker/docker-what-is.md",
+    "git/git-stash.md",
+    "github/github-flow.md",
+    "github/how-to-contribute.md",
     "git/trunk-based-developmentvs-git-flow.md",
+    "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
+    "-/attachments/diagram-export-11-15-2023-7_49_28-PM.png",
     "README.md",
     "-/attachments/diagram-export-11-15-2023-7_52_26-PM.png",
     "2023-11-15.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
-    "react/state-and-props.md",
     "react/redux.md",
     "react/react-router.md",
-    "react/useEffect-and-useLayoutEffect.md",
-    "react/useState-and-useRef.md",
-    "react/useMemo-and-useCallback.md",
-    "react/what-is-a-react-hook.md",
-    "react/what-is-jsx.md",
-    "react/what-is-prop-drilling.md",
-    "react/zustand-and-react-query.md",
     "react/lifecycle-methods.md",
     "react/keys-in-react.md",
-    "react/high-order-components.md",
-    "react/controlled-vs-uncontrolled-components.md",
-    "react/dom-virtual-dom-shadow-dom.md",
-    "react/context-vs-redux.md",
-    "react/context-api.md",
-    "react/class-components.md",
-    "react/avoid-re-rendering-by-using-uncontrolled-inputs.md",
-    "-/templates/TEMPLATE.md",
     "-/attachments/event-loop-0.gif",
     "-/attachments/dom-virtual-dom-shadow-dom-00.png",
     "-/attachments/state-and-props-00.png",
@@ -211,8 +220,6 @@
     "-/attachments/nest_jwt_3.png",
     "-/attachments/nest_jwt_1.png",
     "-/attachments/nest_jwt_0.png",
-    "-/temporary/ExpressJS.md",
-    "-/temporary/Entendendo SQL.md",
     "react/7-api-calls",
     "react/6-styling",
     "react/5-state-management",
@@ -220,7 +227,6 @@
     "react/zustand",
     "azure",
     "redis",
-    "postgresql",
     "attachments/canvas/Untitled.canvas",
     "apps/Untitled.canvas"
   ]

@@ -3,6 +3,8 @@ https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usemem
 
 https://www.joshwcomeau.com/react/usememo-and-usecallback/
 
+https://overreacted.io/before-you-memo/
+
 ## useMemo
 
 Allows you to optimize the perfomance of the components by memoizing the result of a computation

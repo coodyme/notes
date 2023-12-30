@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiProxmox",
       "SiMicrosoftazure",
       "SiAzuredevops",
       "SiRedis",
-      "SiMongodb",
-      "SiPostgresql"
+      "SiMongodb"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "postgresql": "SiPostgresql",
   "mongodb": "SiMongodb",
   "redis": "SiRedis",
-  "azure": "SiMicrosoftazure"
+  "azure": "SiMicrosoftazure",
+  "proxmox": "SiProxmox"
 }
