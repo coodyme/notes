@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e507c3274f77a066",
+        "id": "55c955dcca3adadc",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7a0dda3e2bae56",
+            "id": "af35dec9321670cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "react/zustand-vs-context.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c5d9f63afc750ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,8 +168,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0c5d9f63afc750ee",
+  "active": "af35dec9321670cf",
   "lastOpenFiles": [
+    "README.md",
+    "linux/generate-ssh-key.md",
+    "linux/set-static-ip.md",
+    "linux",
     "docker/docker-what-is.md",
     "proxmox/before-use-proxmox.md",
     "proxmox",
@@ -210,7 +193,6 @@
     "git/trunk-based-developmentvs-git-flow.md",
     "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
     "-/attachments/diagram-export-11-15-2023-7_49_28-PM.png",
-    "README.md",
     "-/attachments/diagram-export-11-15-2023-7_52_26-PM.png",
     "2023-11-15.md",
     "Untitled 1.canvas",
@@ -222,8 +204,6 @@
     "react/keys-in-react.md",
     "react/high-order-components.md",
     "react/controlled-vs-uncontrolled-components.md",
-    "react/dom-virtual-dom-shadow-dom.md",
-    "react/context-vs-redux.md",
     "-/attachments/event-loop-0.gif",
     "-/attachments/dom-virtual-dom-shadow-dom-00.png",
     "-/attachments/state-and-props-00.png",
@@ -239,7 +219,6 @@
     "react/4-routers",
     "react/zustand",
     "azure",
-    "redis",
     "attachments/canvas/Untitled.canvas",
     "apps/Untitled.canvas"
   ]
