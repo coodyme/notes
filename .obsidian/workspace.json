@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "55c955dcca3adadc",
+        "id": "48eb1bc3cf781dca",
         "type": "tabs",
         "children": [
           {
-            "id": "af35dec9321670cf",
+            "id": "262b6ee9d2ca5d05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "devops/wireguard-vpn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "devops/wireguard-vpn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "devops/wireguard-vpn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "devops/wireguard-vpn.md"
+              }
             }
           },
           {
@@ -168,16 +176,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "af35dec9321670cf",
+  "active": "262b6ee9d2ca5d05",
   "lastOpenFiles": [
-    "README.md",
     "linux/generate-ssh-key.md",
-    "linux/set-static-ip.md",
-    "linux",
-    "docker/docker-what-is.md",
-    "proxmox/before-use-proxmox.md",
-    "proxmox",
+    "devops/wireguard-vpn.md",
+    "devops/traefik.md",
+    "devops/real-dns.md",
+    "devops/nginx.md",
+    "devops/automate-dns.md",
+    "git/trunk-based-developmentvs-git-flow.md",
+    "git/merge-vs-rebase.md",
+    "git/git-stash.md",
     "docker/dockerizedas-nodejs.md",
+    "docker/docker-what-is.md",
+    "docker/docker-tips.md",
+    "linux/set-static-ip.md",
+    "proxmox/before-use-proxmox.md",
+    "devops",
+    "README.md",
+    "linux",
+    "proxmox",
     "html/accessibility.md",
     "react/zustand-and-react-query.md",
     "react/what-is-prop-drilling.md",
@@ -187,23 +205,14 @@
     "react/useEffect-and-useLayoutEffect.md",
     "react/useState-and-useRef.md",
     "react/useMemo-and-useCallback.md",
-    "git/git-stash.md",
     "github/github-flow.md",
     "github/how-to-contribute.md",
-    "git/trunk-based-developmentvs-git-flow.md",
     "-/attachments/diagram-export-11-15-2023-8_16_27-PM.png",
     "-/attachments/diagram-export-11-15-2023-7_49_28-PM.png",
     "-/attachments/diagram-export-11-15-2023-7_52_26-PM.png",
-    "2023-11-15.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
-    "react/redux.md",
-    "react/react-router.md",
-    "react/lifecycle-methods.md",
-    "react/keys-in-react.md",
-    "react/high-order-components.md",
-    "react/controlled-vs-uncontrolled-components.md",
     "-/attachments/event-loop-0.gif",
     "-/attachments/dom-virtual-dom-shadow-dom-00.png",
     "-/attachments/state-and-props-00.png",
@@ -218,7 +227,6 @@
     "react/5-state-management",
     "react/4-routers",
     "react/zustand",
-    "azure",
     "attachments/canvas/Untitled.canvas",
     "apps/Untitled.canvas"
   ]
