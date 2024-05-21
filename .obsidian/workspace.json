@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/how-to/container-execution.md",
+                "file": "nodejs/nestjs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/how-to/container-execution.md",
+                "file": "nodejs/nestjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/how-to/container-execution.md",
+                "file": "nodejs/nestjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/how-to/container-execution.md"
+                "file": "nodejs/nestjs.md"
               }
             }
           },
@@ -178,6 +178,18 @@
   },
   "active": "2fe72c1f639a6fed",
   "lastOpenFiles": [
+    "nodejs/http-methods.md",
+    "aws/cloudfront.md",
+    "terraform",
+    "aws/cloudtrail.md",
+    "aws/s3.md",
+    "aws/streaming-s3-cloudfront.md",
+    "aws/ecs.md",
+    "aws/lambda.md",
+    "aws/cloudwatch.md",
+    "aws/extend-file-system.md",
+    "devops/monitoring.md",
+    "docker/how-to/container-execution.md",
     "docker/how-to/volumes.md",
     "github/how-to-contribute.md",
     "github/actions.md",
@@ -187,27 +199,16 @@
     "databases/postgresql.md",
     "databases/mongodb.md",
     "docker/how-to/docker-containers-101.md",
-    "docker/how-to/container-execution.md",
     "docker/how-to",
     "docker/dockerizedas-nodejs.md",
     "2024-04-24.md",
     "aws/workshop.md",
-    "aws/lambda.md",
     "SalesForce/MuleSoft.md",
     "README.md",
     "SalesForce",
     "docker/docker-what-is.md",
-    "docker/docker-understanding-puid-and-pgid.md",
-    "portainer/portainer-gitops.md",
-    "databases/sql.md",
-    "databases/when-to-use?.md",
     "databases",
-    "prisma/prisma.md",
-    "postgresql/postgresql.md",
-    "mongodb/mongodb.md",
     "portainer",
-    "devops/wireguard-vpn.md",
-    "devops/traefik.md",
     "devops",
     "linux",
     "proxmox",
@@ -226,7 +227,6 @@
     "-/attachments/nest_jwt_3.png",
     "-/attachments/nest_jwt_1.png",
     "-/attachments/nest_jwt_0.png",
-    "react/7-api-calls",
     "attachments/canvas/Untitled.canvas",
     "apps/Untitled.canvas"
   ]
