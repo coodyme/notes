@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiNestjs",
       "SiTerraform",
       "RiCodeBoxLine",
       "SiLinux",
-      "SiProxmox",
-      "SiMicrosoftazure"
+      "SiProxmox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "proxmox": "SiProxmox",
   "linux": "SiLinux",
   "devops": "RiCodeBoxLine",
-  "terraform": "SiTerraform"
+  "terraform": "SiTerraform",
+  "nestjs": "SiNestjs"
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "18cbc7ee17c782cc",
+        "id": "aefccb534bd8ee55",
         "type": "tabs",
         "children": [
           {
-            "id": "2fe72c1f639a6fed",
+            "id": "62aa8f78c733e2a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodejs/nestjs.md",
+                "file": "nestjs/nestjs-observables.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/nestjs.md",
+                "file": "nestjs/nestjs-observables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodejs/nestjs.md",
+                "file": "nestjs/nestjs-observables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodejs/nestjs.md"
+                "file": "nestjs/nestjs-observables.md"
               }
             }
           },
@@ -176,8 +176,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2fe72c1f639a6fed",
+  "active": "62aa8f78c733e2a5",
   "lastOpenFiles": [
+    "nestjs/nestjs-events.md",
+    "nestjs/nestjs-observables.md",
+    "nestjs/nestjs-queues.md",
+    "nestjs/nestjs-schedule.md",
+    "nodejs/nestjs.md",
+    "nestjs",
     "nodejs/http-methods.md",
     "aws/cloudfront.md",
     "terraform",
@@ -201,12 +207,7 @@
     "docker/how-to/docker-containers-101.md",
     "docker/how-to",
     "docker/dockerizedas-nodejs.md",
-    "2024-04-24.md",
-    "aws/workshop.md",
-    "SalesForce/MuleSoft.md",
-    "README.md",
     "SalesForce",
-    "docker/docker-what-is.md",
     "databases",
     "portainer",
     "devops",
@@ -222,7 +223,6 @@
     "-/attachments/dom-virtual-dom-shadow-dom-00.png",
     "-/attachments/state-and-props-00.png",
     "-/attachments/Recording 20231115145219.webm",
-    "-/attachments/Recording 20231115145216.webm",
     "-/attachments/Pasted image 20230707081930.png",
     "-/attachments/nest_jwt_3.png",
     "-/attachments/nest_jwt_1.png",
