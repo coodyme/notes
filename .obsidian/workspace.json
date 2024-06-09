@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nestjs/nestjs-observables.md",
+                "file": "aws/cloudfront.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "004e195785524df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/react-s3-cloudfront.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nestjs/nestjs-observables.md",
+                "file": "aws/react-s3-cloudfront.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nestjs/nestjs-observables.md",
+                "file": "aws/react-s3-cloudfront.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nestjs/nestjs-observables.md"
+                "file": "aws/react-s3-cloudfront.md"
               }
             }
           },
@@ -176,20 +189,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "62aa8f78c733e2a5",
+  "active": "004e195785524df5",
   "lastOpenFiles": [
+    "aws/streaming-s3-cloudfront.md",
+    "devops/nginx-docker.md",
+    "aws/react-s3-cloudfront.md",
+    "aws/cloudfront.md",
+    "aws/s3.md",
+    "linux/generate-ssh-key.md",
+    "aws/cloudtrail.md",
+    "nestjs/nestjs-schedule.md",
     "nestjs/nestjs-events.md",
     "nestjs/nestjs-observables.md",
     "nestjs/nestjs-queues.md",
-    "nestjs/nestjs-schedule.md",
     "nodejs/nestjs.md",
     "nestjs",
     "nodejs/http-methods.md",
-    "aws/cloudfront.md",
     "terraform",
-    "aws/cloudtrail.md",
-    "aws/s3.md",
-    "aws/streaming-s3-cloudfront.md",
     "aws/ecs.md",
     "aws/lambda.md",
     "aws/cloudwatch.md",
@@ -203,10 +219,7 @@
     "git/merge-vs-rebase.md",
     "databases/prisma.md",
     "databases/postgresql.md",
-    "databases/mongodb.md",
-    "docker/how-to/docker-containers-101.md",
     "docker/how-to",
-    "docker/dockerizedas-nodejs.md",
     "SalesForce",
     "databases",
     "portainer",
