@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nestjs/nestjs-schedule.md",
+                "file": "nestjs/nestjs-dynamic-modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nestjs/nestjs-schedule.md",
+                "file": "nestjs/nestjs-dynamic-modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nestjs/nestjs-schedule.md",
+                "file": "nestjs/nestjs-dynamic-modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nestjs/nestjs-schedule.md"
+                "file": "nestjs/nestjs-dynamic-modules.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "a10c651f920e615d",
   "lastOpenFiles": [
+    "nestjs/nestjs-queues.md",
+    "nestjs/nestjs-dynamic-modules.md",
+    "nestjs/nestjs-schedule.md",
     "aws/cloudfront.md",
     "aws/rds-coonection.md",
     "aws/cloudwatch.md",
@@ -187,10 +190,8 @@
     "devops/nginx-docker.md",
     "aws/s3.md",
     "linux/generate-ssh-key.md",
-    "nestjs/nestjs-schedule.md",
     "nestjs/nestjs-events.md",
     "nestjs/nestjs-observables.md",
-    "nestjs/nestjs-queues.md",
     "nodejs/nestjs.md",
     "nestjs",
     "nodejs/http-methods.md",
@@ -205,7 +206,6 @@
     "github/actions.md",
     "git/trunk-based-developmentvs-git-flow.md",
     "git/merge-vs-rebase.md",
-    "databases/prisma.md",
     "docker/how-to",
     "SalesForce",
     "databases",
