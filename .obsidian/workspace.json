@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proxmox/proxmox-zfs.md",
+                "file": "aws/aws-parameter-store.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proxmox/proxmox-zfs.md",
+                "file": "aws/aws-parameter-store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proxmox/proxmox-zfs.md",
+                "file": "aws/aws-parameter-store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proxmox/proxmox-zfs.md"
+                "file": "aws/aws-parameter-store.md"
               }
             }
           },
@@ -178,17 +178,24 @@
   },
   "active": "a10c651f920e615d",
   "lastOpenFiles": [
-    "proxmox/iommu.md",
+    "aws/react-s3-cloudfront.md",
+    "aws/rds-coonection.md",
+    "aws/aws-lambda.md",
+    "aws/aws-iam.md",
+    "aws/aws-parameter-store.md",
+    "aws/aws-ecs.md",
+    "aws/extend-file-system.md",
+    "aws/aws-ec2.md",
+    "aws/aws-dynamo-db.md",
+    "aws/aws-cloudwatch.md",
+    "aws/aws-cloudtrail.md",
+    "aws/aws-cloudfront.md",
     "proxmox/proxmox-zfs.md",
+    "proxmox/iommu.md",
     "proxmox/proxmox-realms.md",
     "nestjs/nestjs-dynamic-modules.md",
     "nestjs/nestjs-queues.md",
     "nestjs/nestjs-schedule.md",
-    "aws/cloudfront.md",
-    "aws/rds-coonection.md",
-    "aws/cloudwatch.md",
-    "aws/cloudtrail.md",
-    "aws/react-s3-cloudfront.md",
     "aws/streaming-s3-cloudfront.md",
     "devops/nginx-docker.md",
     "aws/s3.md",
@@ -199,13 +206,6 @@
     "nestjs",
     "nodejs/http-methods.md",
     "terraform",
-    "aws/ecs.md",
-    "aws/lambda.md",
-    "aws/extend-file-system.md",
-    "devops/monitoring.md",
-    "docker/how-to/container-execution.md",
-    "docker/how-to/volumes.md",
-    "github/how-to-contribute.md",
     "docker/how-to",
     "SalesForce",
     "databases",
