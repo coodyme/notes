@@ -1,5 +1,15 @@
 # notes
 
-For a better experience, download [Obisidian](https://obsidian.md/) and open this repository as a `Obisidian Vault`.
+Learning notes & programming tips.
 
-> It is recommended to use Dark Theme to best reading experience.
+- [API](./api)
+- [AWS](./aws)
+- [Azure](./azure)
+- [Cheats Sheets](./cheats-sheets)
+- [CSS](./css)
+- [Databases](./databases)
+- [DevOps](./devops)
+- [Docker](./docker)
+- [Git](./git)
+- [GitHub](./github)
+- [HTML](./html)

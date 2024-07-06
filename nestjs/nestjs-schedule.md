@@ -129,3 +129,12 @@ From `SchedulerRegistry` you can use the following methods to:
 - `getCronJobs()` - **List** all cron jobs using the `SchedulerRegistry#getCronJobs`
 
 For more information: https://docs.nestjs.com/techniques/task-scheduling#dynamic-schedule-module-api
+
+
+https://dev.to/edgargonzalez525/how-to-schedule-a-cron-job-with-nestjs-in-less-than-5-mins-cmi
+
+https://www.youtube.com/watch?v=-6ymgJZj_O4
+
+https://medium.com/@hahajeng1234/real-world-problem-of-nestjs-schedule-and-practical-solution-e6bcb38163d2
+
+https://www.youtube.com/watch?v=FX5JySeL1WY
