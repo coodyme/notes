@@ -1,5 +1,3 @@
-#linux
-#ssh
 ## How to generate a SSH Key 
 
 ```bash
@@ -32,3 +30,12 @@ ssh-copy-id "<username@remote_host>"
 git config core.sshCommand "ssh -o IdentitiesOnly=yes -i ~/.ssh/private-key-filename-for-this-repository -F /dev/null"
 ```
 
+## How to add ssh ket to apple keychain
+
+```bash
+ssh-add -K ~/.ssh/id_rsa
+```
+
+## How to remove ssh key from apple keychain
+
+```bash
