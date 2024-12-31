@@ -1,10 +1,26 @@
-# System information
+# System
+
+Useful commands for managing and monitoring system resources.
+
+## System information
 ```bash
 uname -a : Displays all system information.
 hostnamectl : Shows current hostname and related details.
 lscpu : Lists CPU architecture information.
 timedatectl status : Shows system time.
 ```
+
+Change hostname
+```bash
+sudo hostnamectl set-hostname <new_hostname>
+```
+
+Change password
+```bash
+passwd : Changes the current user’s password.
+```
+
+
 
 # System monitoring and management
 ```bash
