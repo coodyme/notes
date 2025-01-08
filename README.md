@@ -6,7 +6,7 @@ A comprehensive collection of development notes, code snippets, and technical do
 
 1. **Quick Reference**: Use VS Code or any markdown reader to quickly search through organized technical notes and code examples.
 
-2. **Documentation Website**: Acts as a content backend for a documentation website, that you can access at [Notes](https://notes.coody.me)
+2. **Documentation Website**: Acts as a content backend for a documentation website, that you can access at [Notes](https://coody.me/notes)
 
 ## Table of Contents
 
